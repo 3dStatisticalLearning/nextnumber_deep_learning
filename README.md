@@ -310,7 +310,7 @@ print(response.json())
 
 ---
 
-## 📡 API Documentation
+##  API Documentation
 
 ### Endpoints
 
